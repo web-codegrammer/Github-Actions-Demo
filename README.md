@@ -35,5 +35,8 @@ docker container run -p 8080:8080 -d gazgeek/springboot-helloworld
 Go to Browser and type http://localhost:8080/ or do curl http://localhost:8080/ on command prompt.
 ```
 
+## Project is Licensed Under the
 
+[MIT License](https://github.com/web-codegrammer/Github-Actions-Demo/blob/main/LICENSE)
 
+Issued to ```Devanshu Vashishtha``` | Copyright ©️ 2022-2023 [web-codegrammer](https://github.com/web-codegrammer)
